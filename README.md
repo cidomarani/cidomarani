@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Aparecido Marani</h1>
+<h1 align="center">I'm Aparecido Marani</h1>
 <h3 align="center">Salesforce Consultant | Tech Lead | Certified Administrator</h3>
 
-- 🔭 I’m currently working on **some private projects for the company**
+- I’m currently working on **some private projects for the company**
 
-- 🌱 I’m currently learning **Salesforce AI (Einstein), Data Cloud, Marketing Cloud, APEX, Data Analytics and others AIs**
+- I’m currently learning **Salesforce AI (Einstein), Data Cloud, Marketing Cloud, APEX, Data Analytics and others AIs**
+
+- My Profile at Salesforce Trailblazer: **https://www.salesforce.com/trailblazer/cido-marani**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
